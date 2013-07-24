@@ -4,6 +4,10 @@ body {
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
+	font-family: Verdana, Arial;
+	font-size: 11px;
+	font-style: normal;
+	color: #48484A;
 }
 a:link {
 	color: #48484A;
@@ -21,24 +25,11 @@ a:active {
 	text-decoration: none;
 	color: #48484A;
 }
-.textoint {
-	font-family: Verdana, Arial;
-	font-size: 11px;
-	font-style: normal;
-	color: #48484A;
-}
 .textointitalico {
-	font-family: Verdana, Arial;
-	font-size: 11px;
 	font-style:italic;
-	color: #48484A;
 }
 .textointbold {
-	font-family: Verdana, Arial;
-	font-size: 11px;
-	font-style: normal;
 	font-weight: Bold;
-	color: #48484A;
 	text-align: left;
 }
 .titulos {
@@ -66,4 +57,9 @@ a:active {
 	font-weight: Bold;
 	color: #48484A;
 	text-align: left;
+}
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50em;
 }
