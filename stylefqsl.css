@@ -1,0 +1,75 @@
+body {
+	background-color: #C4CAC1;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	color: #48484A;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #48484A;
+}
+a:hover {
+	text-decoration: underline;
+	color: #48484A;
+}
+a:active {
+	text-decoration: none;
+	color: #48484A;
+}
+.textoint {
+	font-family: Verdana, Arial;
+	font-size: 11px;
+	font-style: normal;
+	color: #48484A;
+}
+.textointitalico {
+	font-family: Verdana, Arial;
+	font-size: 11px;
+	font-style:italic;
+	color: #48484A;
+}
+.textointbold {
+	font-family: Verdana, Arial;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: Bold;
+	color: #48484A;
+	text-align: left;
+}
+.titulos {
+	font-family: "Trebuchet MS";
+	font-size: 13px;
+	font-weight: Bold;
+	color: #48484A;
+	text-align: left;
+}
+.titulos_f {
+	font-family: "Trebuchet MS";
+	font-size: 13px;
+	font-weight: Bold;
+	color: #FF0086;
+}
+.contacto {
+	font-family: "Trebuchet MS";
+	font-size: 13px;
+	color: #48484A;
+	text-align: left;
+}
+.contactobold {
+	font-family: "Trebuchet MS";
+	font-size: 13px;
+	font-weight: Bold;
+	color: #48484A;
+	text-align: left;
+}
+.container
+{
+margin-left: auto;
+margin-right: auto;
+width: 50em;
+}
